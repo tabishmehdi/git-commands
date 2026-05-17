@@ -1,4 +1,4 @@
-# Git Commands List
+# Git Commands
 
 A collection of basic Git commands with explanations.
 
